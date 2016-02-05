@@ -1,2 +1,2 @@
 // Code goes here
-alert ("Author: Osarumwense Ogbebor")
+alert ("This is Osarumwense Ogbebor\'s codes")
