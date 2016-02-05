@@ -1,5 +1,5 @@
 // Code goes here
-alert ("Author: Osarumwense Ogbebor")
+alert ("This is Osarumwense Ogbebor\'s codes")
 
 var myValue = 5;
 var mySecondValue = 8 + 3;
